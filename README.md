@@ -35,9 +35,10 @@ Estou em constante evolução e busco ativamente novos desafios e oportunidades 
 <div align="center">
   <h2>🛠️ Habilidades & Tecnologias</h2>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,pancakeswap,scikitlearn,tensorflow,pytorch,sql,git,github,docker" 
-      alt="Habilidades e Tecnologias" height="45">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python" />
+</p>
   </p>
 </div>
 
