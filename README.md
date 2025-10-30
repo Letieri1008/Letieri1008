@@ -4,8 +4,7 @@
 
   <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
 
-              <img src="giphy.gif">
-
+              
 
   <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
 </div>
