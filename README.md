@@ -4,9 +4,9 @@
 
   <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
 
-              <p align="center">
+      
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYycmFlbjVyYmdoOXk0eGQ1bXFuOGFpcG11ZDVkNXpndTdqYzhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif" 
-       alt="Robô acenando" width="180">
+       alt="Robô acenando" width="400">
 </p>
 
 
