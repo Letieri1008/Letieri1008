@@ -4,7 +4,7 @@
 
   <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
 
-(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0anI2bndjMHpydGFtMzFqdXkzaW12dXUwZDdjYWtyYTBia2d2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IpWc9hCbbAPvhRX1Je/giphy.gif)
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0anI2bndjMHpydGFtMzFqdXkzaW12dXUwZDdjYWtyYTBia2d2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IpWc9hCbbAPvhRX1Je/giphy.gif
 
   <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
 </div>
