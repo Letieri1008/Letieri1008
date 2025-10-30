@@ -6,7 +6,7 @@
 
       
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYycmFlbjVyYmdoOXk0eGQ1bXFuOGFpcG11ZDVkNXpndTdqYzhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif" 
-       alt="Robô acenando" width="400" height="400">
+       alt="Robô acenando" width="600">
 </p>
 
 
@@ -41,7 +41,7 @@ Estou em constante evolução e busco ativamente novos desafios e oportunidades 
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,github" />
+    <img src="https://skillicons.dev/icons?i=git,python,pytorch,sklearn,tensorflow,github,linux" />
 </p>
   </p>
 </div>
