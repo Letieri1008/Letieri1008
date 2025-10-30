@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Bem-vindo ao Meu GitHub! </h1>
+  <h1>✨ Bem-vindo ao Meu GitHub! ✨</h1>
   <hr>
   
   <h1>Olá! Eu sou Matheus Letieri 👋</h1>
@@ -18,7 +18,7 @@ Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR 
 **Minha jornada é impulsionada pela vontade de aprender** e aplicar conceitos de Deep Learning (DL) e análise de dados para solucionar problemas reais para empresas e negócios.
 
 <details>
-<summary> **Foco Atual (Clique para expandir)**</summary>
+<summary>⚡ **Foco Atual (Clique para expandir)**</summary>
 <br>
 <ul>
     <li>Desenvolvimento de agente inteligente para auxiliar automações, tarefas do meio corporativo e para trabalhadores autônomos.</li>
@@ -33,10 +33,9 @@ Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR 
 
 <div align="center">
     <h2>🛠️ Habilidades & Tecnologias Destacadas</h2>
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,scikitlearn,tensorflow,pytorch,jupyter,sql,git,github,docker" 
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,scikitlearn,tensorflow,pytorch,jupyter,sql,git,github,docker&perline=99&titles=true" 
         alt="Tecnologias: Python, Pandas, NumPy, Streamlit, Scikit-learn, TensorFlow, PyTorch, Jupyter, SQL, Git, GitHub, Docker" 
-        height="50">
-</div>
+        height="100"> </div>
 
 ---
 
@@ -51,5 +50,5 @@ Estou sempre aberto a novas conexões e oportunidades para colaborar e aprender!
 
 ---
 <div align="center">
-  <p>Feito com muita dedicação e vontade de aprender </p>
+  <p>Feito com muita dedicação e vontade de aprender 🧑‍💻</p>
 </div>
