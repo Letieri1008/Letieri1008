@@ -10,7 +10,7 @@
 </p>
 
 
-  <p> **Estudante de Ciências da computação** |  **Entusiasta de IA & ML** |  **Sempre em Desenvolvimento** </p>
+  <p> Estudante de Ciências da computação |  Entusiasta de IA & ML |  Sempre em Desenvolvimento </p>
 </div>
 
 ---
@@ -26,11 +26,11 @@ Estou em constante evolução e busco ativamente novos desafios e oportunidades 
 <summary><strong>🎯 Foco Atual (clique para expandir)</strong></summary>
 <br>
 
--  ## Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
--  ## Exploração de estatísticas e visualização de dados para insights de negócios.  
--  ## 2Engenharia de prompts para criação de agentes especializados e personalizados.  
--  ## Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
--  ## Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
+-   Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
+-   Exploração de estatísticas e visualização de dados para insights de negócios.  
+-   2Engenharia de prompts para criação de agentes especializados e personalizados.  
+-   Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
+-   Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
 
 </details>
 
