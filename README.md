@@ -4,7 +4,7 @@
 
   <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemducHk4NmhydHRxMWNqNjRnZHVibXhqMzV5OHV3ODFleGZyMW4xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF de IA/Computação" width="160" height="160"/>
+(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0anI2bndjMHpydGFtMzFqdXkzaW12dXUwZDdjYWtyYTBia2d2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IpWc9hCbbAPvhRX1Je/giphy.gif)
 
   <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
 </div>
@@ -37,7 +37,7 @@ Estou em constante evolução e busco ativamente novos desafios e oportunidades 
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python" />
+    <img src="https://skillicons.dev/icons?i=git,python,github" />
 </p>
   </p>
 </div>
