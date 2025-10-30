@@ -2,7 +2,7 @@
   <h1> Bem-vindo ao Meu GitHub! </h1>
   <hr>
 
-  <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
+  <h2>Olá! Eu sou <strong>Matheus Letieri</strong> </h2>
 
       
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYycmFlbjVyYmdoOXk0eGQ1bXFuOGFpcG11ZDVkNXpndTdqYzhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif" 
@@ -10,7 +10,7 @@
 </p>
 
 
-  <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
+  <p> **Estudante de Ciências da computação** |  **Entusiasta de IA & ML** |  **Sempre em Desenvolvimento** </p>
 </div>
 
 ---
@@ -26,18 +26,18 @@ Estou em constante evolução e busco ativamente novos desafios e oportunidades 
 <summary><strong>🎯 Foco Atual (clique para expandir)</strong></summary>
 <br>
 
-- 🤖 Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
-- 📊 Exploração de estatísticas e visualização de dados para insights de negócios.  
-- 🧠 Engenharia de prompts para criação de agentes especializados e personalizados.  
-- 🧬 Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
-- ☁️ Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
+-  ## Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
+-  ## Exploração de estatísticas e visualização de dados para insights de negócios.  
+-  ## 2Engenharia de prompts para criação de agentes especializados e personalizados.  
+-  ## Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
+-  ## Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
 
 </details>
 
 ---
 
 <div align="center">
-  <h2>🛠️ Habilidades & Tecnologias</h2>
+  <h2> Habilidades & Tecnologias</h2>
 
  <p align="center">
   <a href="https://skillicons.dev">
@@ -60,5 +60,5 @@ Estou sempre aberto a novas conexões e oportunidades para colaborar e aprender!
 ---
 
 <div align="center">
-  <p>💻 Feito com dedicação, curiosidade e vontade de aprender sempre!</p>
+  <p> Feito com dedicação, curiosidade e vontade de aprender sempre!</p>
 </div>
