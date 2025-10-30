@@ -1,66 +1,59 @@
 <div align="center">
   <h1>✨ Bem-vindo ao Meu GitHub! ✨</h1>
   <hr>
-  
-  <h1>Olá! Eu sou Matheus Letieri 👋</h1>
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemducHk4NmhydHRxMWNqNjRnZHVibXhqMzV5OHV3ODFleGZyMW4xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF de IA/Computação" width="150" height="150"/>
-  
+
+  <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemducHk4NmhydHRxMWNqNjRnZHVibXhqMzV5OHV3ODFleGZyMW4xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF de IA/Computação" width="160" height="160"/>
+
   <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
 </div>
 
 ---
 
-### 📚 Sobre Mim
+## 📚 Sobre Mim
 
-Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR com uma profunda paixão pela área de **Inteligência Artificial (IA)** e **Machine Learning (ML)**. Estou no processo constante de desenvolvimento e busco ativamente novos conhecimentos e projetos que me desafiem.
+Sou um estudante do primeiro período de **Ciência da Computação (IBMR)**, com uma profunda paixão pela área de **Inteligência Artificial (IA)** e **Machine Learning (ML)**.  
+Estou em constante evolução e busco ativamente novos desafios e oportunidades para aprender e aplicar o que estudo.
 
-**Minha jornada é impulsionada pela vontade de aprender** e aplicar conceitos de Deep Learning (DL) e análise de dados para solucionar problemas reais para empresas e negócios.
+**Minha jornada é movida pela vontade de aprender**, especialmente em **Deep Learning (DL)** e **análise de dados**, buscando soluções reais e práticas para empresas e negócios.
 
 <details>
-<summary> **Foco Atual(Clique para expandir)**</summary>
+<summary><strong>🎯 Foco Atual (clique para expandir)</strong></summary>
 <br>
-<ul>
-    <li>Desenvolvimento de agente inteligente para auxiliar automações, tarefas do meio corporativo e para trabalhadores autônomos.</li>
-    <li>Explorando estatísticas ligadas a negócios para visualização de dados, desempenho e escalabilidade.</li>
-    <li>Criação de Agente por meio de engenharia de prompts especializados para atender tarefas específicas de forma personalizada.</li>
-    <li>Integrar a Tecnologia da Informação para aplicação em ciências médicas e ferramentas de apoio para estudantes de medicina.</li>
-    <li>Estudando e aprendendo sobre plataformas SaaS, fundamentos de ERP e EIP com foco em Inteligência Artificial.</li>
-</ul>
+
+- 🤖 Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
+- 📊 Exploração de estatísticas e visualização de dados para insights de negócios.  
+- 🧠 Engenharia de prompts para criação de agentes especializados e personalizados.  
+- 🧬 Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
+- ☁️ Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
+
 </details>
 
 ---
 
 <div align="center">
-    <h2>🛠️ Habilidades & Tecnologias Destacadas</h2>
-    
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,jupyter" 
-        alt="Python, Pandas, NumPy, Streamlit, Jupyter" height="40">
-        
-    <br>
+  <h2>🛠️ Habilidades & Tecnologias</h2>
 
-    <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" 
-        alt="Scikit-learn, TensorFlow, PyTorch" height="40">
-
-    <br>
-
-    <img src="https://skillicons.dev/icons?i=sql,git,github,docker" 
-        alt="SQL, Git, GitHub, Docker" height="40">
-        
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,jupyter,scikitlearn,tensorflow,pytorch,sql,git,github,docker" 
+      alt="Habilidades e Tecnologias" height="45">
+  </p>
 </div>
 
 ---
 
 ## 📧 Conecte-se Comigo
 
-Estou sempre aberto a novas conexões e oportunidades para colaborar e aprender!
+Estou sempre aberto a novas conexões e oportunidades para colaborar e aprender!  
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/matheus-letieri-448aa332a/) |
+| 🌐 Plataforma | 🔗 Link |
+| :------------ | :------ |
+| **LinkedIn** | [linkedin.com/in/matheus-letieri-448aa332a](https://www.linkedin.com/in/matheus-letieri-448aa332a/) |
 | **E-mail** | [matheusjoseletieri@gmail.com](mailto:matheusjoseletieri@gmail.com) |
 
 ---
+
 <div align="center">
-  <p>Feito com muita dedicação e vontade de aprender 🧑‍💻</p>
+  <p>💻 Feito com dedicação, curiosidade e vontade de aprender sempre!</p>
 </div>
