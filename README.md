@@ -33,7 +33,7 @@ Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR 
 
 <div align="center">
     <h2>🛠️ Habilidades & Tecnologias Destacadas</h2>
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,scikitlearn,tensorflow,pytorch,jupyter,sql,git,github,docker&perline=99&titles=true" 
+    <img src="https://skillicons.dev/icons?i=python, pandas ,numpy ,streamlit ,scikitlearn ,tensorflow,pytorch,jupyter,sql,git,github,docker&perline=99&titles=true" 
         alt="Tecnologias: Python, Pandas, NumPy, Streamlit, Scikit-learn, TensorFlow, PyTorch, Jupyter, SQL, Git, GitHub, Docker" 
         height="100"> </div>
 
