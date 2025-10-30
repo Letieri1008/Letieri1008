@@ -18,7 +18,7 @@ Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR 
 **Minha jornada é impulsionada pela vontade de aprender** e aplicar conceitos de Deep Learning (DL) e análise de dados para solucionar problemas reais para empresas e negócios.
 
 <details>
-<summary>⚡ **Foco Atual (Clique para expandir)**</summary>
+<summary> **Foco Atual(Clique para expandir)**</summary>
 <br>
 <ul>
     <li>Desenvolvimento de agente inteligente para auxiliar automações, tarefas do meio corporativo e para trabalhadores autônomos.</li>
@@ -33,9 +33,21 @@ Sou um estudante do primeiro período de **Ciência da Computação** pela IBMR 
 
 <div align="center">
     <h2>🛠️ Habilidades & Tecnologias Destacadas</h2>
-    <img src="https://skillicons.dev/icons?i=python, pandas ,numpy ,streamlit ,scikitlearn ,tensorflow,pytorch,jupyter,sql,git,github,docker&perline=99&titles=true" 
-        alt="Tecnologias: Python, Pandas, NumPy, Streamlit, Scikit-learn, TensorFlow, PyTorch, Jupyter, SQL, Git, GitHub, Docker" 
-        height="100"> </div>
+    
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit,jupyter" 
+        alt="Python, Pandas, NumPy, Streamlit, Jupyter" height="40">
+        
+    <br>
+
+    <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch" 
+        alt="Scikit-learn, TensorFlow, PyTorch" height="40">
+
+    <br>
+
+    <img src="https://skillicons.dev/icons?i=sql,git,github,docker" 
+        alt="SQL, Git, GitHub, Docker" height="40">
+        
+</div>
 
 ---
 
