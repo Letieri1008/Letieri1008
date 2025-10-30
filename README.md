@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Matheus Letieri👋</h1>
   
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemducHk4NmhydHRxMWNqNjRnZHVibXhqMzV5OHV3ODFleGZyMW4xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif
 
 
   <p>Estudante de Ciência da Computação | Entusiasta de IA/ML | Sempre em Desenvolvimento</p>
@@ -28,6 +27,7 @@ Estas são as principais tecnologias que estou utilizando em meus estudos e proj
   **Linguagem & Bibliotecas de Data Science:**
   <br>
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,streamlit" 
+    
     alt="Python, Pandas, NumPy, Streamlit" height="40">
   
   <br><br>
