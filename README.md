@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>✨ Bem-vindo ao Meu GitHub! ✨</h1>
+  <h1> Bem-vindo ao Meu GitHub! </h1>
   <hr>
 
   <h2>Olá! Eu sou <strong>Matheus Letieri</strong> 👋</h2>
 
-![Uploading giphy.gif…]()
+ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYycmFlbjVyYmdoOXk0eGQ1bXFuOGFpcG11ZDVkNXpndTdqYzhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif
 
 
   <p>💡 Estudante de Ciência da Computação | 🤖 Entusiasta de IA & ML | 🚀 Sempre em Desenvolvimento</p>
