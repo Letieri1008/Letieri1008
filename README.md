@@ -1,64 +1,124 @@
 <div align="center">
-  <h1> Bem-vindo ao Meu GitHub! </h1>
+  <h1>Bem-vindo ao Meu GitHub!</h1>
   <hr>
 
-  <h2>Olá! Eu sou <strong>Matheus Letieri</strong> </h2>
+  <h2>Olá! Eu sou <strong>Matheus Letieri</strong></h2>
 
-      
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYycmFlbjVyYmdoOXk0eGQ1bXFuOGFpcG11ZDVkNXpndTdqYzhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif" 
        alt="Robô acenando" width="600">
-</p>
 
+  <p>
+    <strong>Estudante de Ciência da Computação</strong> |
+    <strong>Desenvolvedor Python & Django</strong> |
+    <strong>Atuando na área de Dados</strong>
+  </p>
 
-  <p> Estudante de Ciências da computação |  Entusiasta de IA & ML |  Sempre em Desenvolvimento </p>
+  <p>
+    Focado em desenvolvimento backend, análise de dados, automação e soluções inteligentes com Python.
+  </p>
 </div>
 
 ---
 
 ## 📚 Sobre Mim
 
-Sou um estudante do primeiro período de **Ciência da Computação (IBMR)**, com uma profunda paixão pela área de **Inteligência Artificial (IA)** e **Machine Learning (ML)**.  
-Estou em constante evolução e busco ativamente novos desafios e oportunidades para aprender e aplicar o que estudo.
+Sou estudante de **Ciência da Computação** e atualmente atuo na área de **Análise de Dados**, desenvolvendo habilidades práticas em tratamento, análise, visualização e interpretação de dados para apoio à tomada de decisão.
 
-**Minha jornada é movida pela vontade de aprender**, especialmente em **Deep Learning (DL)** e **análise de dados**, buscando soluções reais e práticas para empresas e negócios.
+Tenho direcionado meus estudos para o desenvolvimento **Backend com Python e Django**, buscando construir aplicações web organizadas, escaláveis e conectadas a bancos de dados.
+
+Minha jornada combina **desenvolvimento de software**, **dados** e **automação**, com foco em criar soluções úteis para problemas reais em ambientes corporativos.
 
 <details>
 <summary><strong>🎯 Foco Atual (clique para expandir)</strong></summary>
 <br>
 
--   Desenvolvimento de agentes inteligentes para automações corporativas e autônomos.  
--   Exploração de estatísticas e visualização de dados para insights de negócios.  
--   2Engenharia de prompts para criação de agentes especializados e personalizados.  
--   Aplicações de TI na medicina e ferramentas de apoio a estudantes da área.  
--   Estudo de plataformas SaaS, fundamentos de ERP e EIP com foco em IA.
+- Desenvolvimento Backend com **Python** e **Django**.
+- Criação de aplicações web com arquitetura organizada.
+- Estudos em **Django REST Framework** e APIs REST.
+- Análise, tratamento e visualização de dados com Python.
+- Automação de processos e relatórios corporativos.
+- Estudos em banco de dados, SQL e modelagem de dados.
+- Evolução contínua em Git, GitHub, Linux e boas práticas de desenvolvimento.
 
 </details>
 
 ---
 
 <div align="center">
-  <h2> Habilidades & Tecnologias</h2>
+  <h2>🛠️ Habilidades & Tecnologias</h2>
 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,pytorch,sklearn,tensorflow,github,linux" />
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,sqlite,git,github,linux,docker,vscode,pycharm,html,css,bootstrap,js" />
+    </a>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 Dados & Machine Learning</h2>
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📌 Áreas de Interesse</h2>
+</div>
+
+<div align="center">
+
+| Área | Foco |
+| :--- | :--- |
+| 🐍 Backend | Python, Django, APIs REST |
+| 📊 Dados | Pandas, análise exploratória, dashboards |
+| 🗄️ Banco de Dados | SQL, PostgreSQL, SQLite, modelagem |
+| ⚙️ Automação | Scripts, relatórios e processos corporativos |
+| 🤖 IA & ML | Machine Learning aplicado e soluções inteligentes |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Letieri1008&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Letieri1008&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ---
 
 ## 📧 Conecte-se Comigo
 
-Estou sempre aberto a novas conexões e oportunidades para colaborar e aprender!  
+Estou aberto a conexões, colaborações, projetos de estudo e oportunidades na área de desenvolvimento Python, Django e Dados.
 
-| 🌐 Plataforma | 🔗 Link |
-| :------------ | :------ |
-| **LinkedIn** | [linkedin.com/in/matheus-letieri-448aa332a](https://www.linkedin.com/in/matheus-letieri-448aa332a/) |
-| **E-mail** | [matheusjoseletieri@gmail.com](mailto:matheusjoseletieri@gmail.com) |
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/matheus-letieri-448aa332a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:matheusjoseletieri@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Letieri1008">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
 <div align="center">
-  <p> Feito com dedicação, curiosidade e vontade de aprender sempre!</p>
+  <p>
+    <strong>Feito com dedicação, curiosidade e evolução contínua.</strong>
+  </p>
 </div>
