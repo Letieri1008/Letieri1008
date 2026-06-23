@@ -2,17 +2,17 @@
 
 # Matheus Letieri
 
-### Desenvolvedor Backend em formação, com foco em Python, Django, APIs REST e dados
+### Backend Developer in training, focused on Python, Django, REST APIs, and data
 
-Construindo uma base sólida em desenvolvimento backend, modelagem de bancos de dados,
-integração entre sistemas e soluções administrativas orientadas por dados.
+Building a solid foundation in backend development, database modeling,
+system integration, and data-driven administrative solutions.
 
 <p>
   <a href="https://www.linkedin.com/in/matheus-letieri-448aa332a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:matheusjoseletieri@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Letieri1008">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -31,34 +31,34 @@ integração entre sistemas e soluções administrativas orientadas por dados.
 
 ---
 
-## Sobre mim
+## About me
 
-Sou estudante de Ciência da Computação e desenvolvedor em formação com foco profissional em **Backend com Python e Django**. Tenho direcionado meus estudos para a construção de aplicações web organizadas, APIs REST, integração com bancos de dados e estruturação de sistemas administrativos.
+I am a Computer Science student and backend developer in training with a professional focus on **Python and Django**. I am building my technical foundation around structured web applications, REST APIs, database integration, and administrative systems.
 
-Também tenho interesse prático em **Análise de Dados**, automações, dashboards e rotinas que conectam tecnologia a processos internos. Meu objetivo é evoluir com consistência, escrevendo código mais claro, mantendo boa organização de projetos e criando soluções úteis para cenários reais.
-
----
-
-## Foco técnico atual
-
-- Desenvolvimento backend com **Python** e **Django**
-- Construção de **APIs REST** com Django REST Framework
-- Modelagem de banco de dados e consultas com **SQL**
-- Uso de **PostgreSQL** em aplicações web
-- Integração entre backend, frontend e serviços externos
-- Organização de sistemas administrativos e rotinas internas
-- Boas práticas de estrutura de projetos, versionamento e manutenção de código
+I also have a practical interest in **Data Analysis**, automations, dashboards, and workflows that connect software development with internal business processes. My goal is to grow with consistency, write clearer code, organize projects well, and build useful solutions for real-world scenarios.
 
 ---
 
-## Stack principal
+## Current technical focus
+
+- Backend development with **Python** and **Django**
+- Building **REST APIs** with Django REST Framework
+- Database modeling and queries with **SQL**
+- Using **PostgreSQL** in web applications
+- Integrating backend services, frontend interfaces, and external systems
+- Organizing administrative systems and internal workflows
+- Improving project structure, version control, and maintainable code practices
+
+---
+
+## Main stack
 
 <div align="center">
 
-| Backend | Banco de Dados | Ferramentas |
+| Backend | Databases | Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,django" alt="Python e Django" /> | <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=git,github" alt="Git e GitHub" /> |
-| Python, Django, DRF, REST APIs | PostgreSQL, SQL, modelagem | Git, GitHub, versionamento |
+| <img src="https://skillicons.dev/icons?i=python,django" alt="Python and Django" /> | <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" /> |
+| Python, Django, DRF, REST APIs | PostgreSQL, SQL, modeling | Git, GitHub, version control |
 
 </div>
 
@@ -75,39 +75,39 @@ Também tenho interesse prático em **Análise de Dados**, automações, dashboa
 
 ---
 
-## Também estudo e utilizo
+## Also studying and using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vite,html,css,mysql,php" alt="JavaScript, Node.js, React, Vite, HTML, CSS, MySQL e PHP" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vite,html,css,mysql,php" alt="JavaScript, Node.js, React, Vite, HTML, CSS, MySQL, and PHP" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Dashboards-2563EB?style=for-the-badge&logo=googledatastudio&logoColor=white" alt="Dashboards" />
-  <img src="https://img.shields.io/badge/Automações-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Automações" />
+  <img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="Automation" />
 </p>
 
-- **JavaScript, Node.js, React e Vite** para ampliar a visão de integração entre frontend e backend
-- **HTML e CSS** para estruturação e interfaces web
-- **Power BI, Pandas e dashboards** para análise e visualização de dados
-- **MySQL e PHP** como tecnologias complementares em contextos de sistemas administrativos, como GLPI
+- **JavaScript, Node.js, React, and Vite** to improve my view of frontend and backend integration
+- **HTML and CSS** for web structure and interface fundamentals
+- **Power BI, Pandas, and dashboards** for data analysis and visualization
+- **MySQL and PHP** as complementary technologies in administrative system contexts, such as GLPI
 
 ---
 
-## Atualmente estudando
+## Currently studying
 
 <div align="center">
 
-| Tema | Objetivo |
+| Topic | Goal |
 | :--- | :--- |
-| Django REST Framework avançado | Criar APIs mais organizadas, seguras e consistentes |
-| Autenticação e permissões | Controlar acesso e regras de uso em aplicações backend |
-| PostgreSQL | Melhorar modelagem, consultas e performance de banco de dados |
-| React consumindo APIs | Integrar interfaces modernas com backends REST |
-| Testes de API | Validar endpoints, fluxos e regras de negócio |
-| Docker | Evoluir ambiente de desenvolvimento e preparação para deploy |
-| Deploy e cloud | Publicar aplicações com mais segurança e previsibilidade |
+| Advanced Django REST Framework | Build more organized, secure, and consistent APIs |
+| Authentication and permissions | Control access rules in backend applications |
+| PostgreSQL | Improve database modeling, queries, and performance |
+| React consuming APIs | Connect modern interfaces to REST backends |
+| API testing | Validate endpoints, flows, and business rules |
+| Docker | Improve development environments and prepare for deployment |
+| Deployment and cloud | Publish applications with more reliability and predictability |
 
 </div>
 
@@ -117,7 +117,6 @@ Também tenho interesse prático em **Análise de Dados**, automações, dashboa
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Letieri1008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Letieri1008&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
@@ -126,9 +125,9 @@ Também tenho interesse prático em **Análise de Dados**, automações, dashboa
 
 ---
 
-## Contato
+## Contact
 
-Estou aberto a conexões profissionais, troca de conhecimento, oportunidades de estágio ou desenvolvimento júnior e conversas sobre backend, Django, APIs, dados e sistemas internos.
+I am open to professional connections, knowledge exchange, internship or junior developer opportunities, and conversations about backend development, Django, APIs, data, and internal systems.
 
 <div align="center">
 
@@ -136,17 +135,17 @@ Estou aberto a conexões profissionais, troca de conhecimento, oportunidades de 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:matheusjoseletieri@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Letieri1008">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-em%20constru%C3%A7%C3%A3o-64748B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio em construção" />
+  <img src="https://img.shields.io/badge/Portfolio-coming%20soon-64748B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
 
 </div>
 
 ---
 
 <div align="center">
-  <strong>Backend, dados e sistemas administrativos com direção clara, prática constante e evolução contínua.</strong>
+  <strong>Backend, data, and administrative systems with clear direction, steady practice, and continuous growth.</strong>
 </div>
