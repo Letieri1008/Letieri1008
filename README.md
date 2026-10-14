@@ -153,18 +153,6 @@ My work with **PHP and GLPI 11** complements this experience through system cust
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Letieri1008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Letieri1008&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## Contact
 
 I am open to **junior software development opportunities**, professional connections, and conversations about **Python, Django, APIs, business process automation, and internal systems**.
